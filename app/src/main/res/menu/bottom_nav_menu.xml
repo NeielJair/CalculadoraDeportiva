@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_sets"
+        android:icon="@drawable/ic_running"
+        android:title="@string/sets" />
+
+    <item
+        android:id="@+id/navigation_times"
+        android:icon="@drawable/ic_timer"
+        android:title="@string/times" />
+
+    <item
+        android:id="@+id/navigation_weights"
+        android:icon="@drawable/ic_dumbbell"
+        android:title="@string/weights" />
+
+</menu>

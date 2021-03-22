@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_sets">
+
+    <fragment
+        android:id="@+id/navigation_sets"
+        android:name="com.njair.calculadoradeportiva.ui.fragments.SetsFragment"
+        android:label="@string/sets"
+        tools:layout="@layout/fragment_sets" />
+
+    <fragment
+        android:id="@+id/navigation_times"
+        android:name="com.njair.calculadoradeportiva.ui.fragments.TimesFragment"
+        android:label="@string/times"
+        tools:layout="@layout/fragment_times" />
+
+    <fragment
+        android:id="@+id/navigation_weights"
+        android:name="com.njair.calculadoradeportiva.ui.fragments.WeightsFragment"
+        android:label="@string/weights"
+        tools:layout="@layout/fragment_weights" />
+</navigation>

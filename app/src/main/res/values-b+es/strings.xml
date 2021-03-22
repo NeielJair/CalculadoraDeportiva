@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Deportiva</string>
+    <string name="sets">Pasadas</string>
+    <string name="weights">Pesos</string>
+    <string name="minutes">Minutos</string>
+    <string name="seconds">Segundos</string>
+    <string name="tenths">Décimas</string>
+    <string name="expected_time">Tiempo objetivo</string>
+    <string name="percentage">Porcentaje</string>
+    <string name="goal_time">Tiempo a realizar</string>
+    <string name="expected_weight">Peso objetivo</string>
+    <string name="goal_weight">Peso a trabajar</string>
+    <string name="kilograms">Kilogramos</string>
+    <string name="grams">Gramos</string>
+    <string name="kg">kg</string>
+    <string name="gr">gr</string>
+    <string name="tenths_mark">d</string>
+    <string name="times">Tiempos</string>
+    <string name="distance_run">Distancia corrida</string>
+    <string name="time_achieved">Tiempo logrado</string>
+    <string name="meter_short">m</string>
+    <string name="goal_distance">Distancia objetivo</string>
+    <string name="approximated_velocity">Velocidad aproximada</string>
+</resources>

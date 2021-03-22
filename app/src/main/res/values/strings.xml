@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sports Calculator</string>
+    <string name="sets">Sets</string>
+    <string name="weights">Weights</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
+    <string name="tenths">Tenths</string>
+    <string name="expected_time">Expected time</string>
+    <string name="percentage">Percentage</string>
+    <string name="goal_time">Goal time</string>
+    <string name="expected_weight">Expected weight</string>
+    <string name="goal_weight">Goal weight</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="grams">Grams</string>
+    <string name="kg">kg</string>
+    <string name="gr">gr</string>
+    <string name="tenths_mark">t</string>
+    <string name="times">Times</string>
+    <string name="distance_run">Distance run</string>
+    <string name="time_achieved">Time achieved</string>
+    <string name="meter_short">m</string>
+    <string name="goal_distance">Goal distance</string>
+    <string name="approximated_velocity">Approximated velocity</string>
+</resources>
